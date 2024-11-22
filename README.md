@@ -1,4 +1,4 @@
-# Scraper Bachelor Thesis
+# COMPARING WEB SCRAPING TECHNIQUES FOR AMAZON DATA COLLECTION
 
 Scraping scripts for experiments purpose in Bachelor Thesis.
 
